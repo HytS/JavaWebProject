@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/TomcatDemo2" />
     <file type="web" url="file://E:/javaweb（帅地）/阶段3代码资料/day04-1-Maven/资料/3. 测试web项目/web-demo" />
   </component>
   <component name="MavenProjectsManager">
@@ -11,6 +12,9 @@
         <option value="E:/javaweb（帅地）/阶段3代码资料/day04-1-Maven/代码/maven-project/pom.xml" />
         <option value="E:/javaweb（帅地）/阶段3代码资料/day04-1-Maven/资料/3. 测试web项目/web-demo/pom.xml" />
         <option value="$PROJECT_DIR$/mybaitisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/TomcatDemo2/pom.xml" />
+        <option value="$PROJECT_DIR$/TomcatDemo1/pom.xml" />
+        <option value="$PROJECT_DIR$/Tomcat/pom.xml" />
       </list>
     </option>
   </component>
